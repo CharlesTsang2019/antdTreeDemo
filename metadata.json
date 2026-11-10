@@ -1,0 +1,6 @@
+{
+  "name": "Ant Design Pro 控制台",
+  "description": "基于 Ant Design Pro 6.0 企业级技术栈构建的管理中后台系统，集成工作台分析、ProTable表格、工作流流程编排与Excel报表交互。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
