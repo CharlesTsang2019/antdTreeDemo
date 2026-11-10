@@ -482,7 +482,7 @@ export const ProTableView: React.FC<ProTableViewProps> = ({ initialSearch = '' }
         }}
         okText="保存规则"
         cancelText="取消"
-        destroyOnClose
+        destroyOnHidden
       >
         <Form form={form} layout="vertical" initialValues={{ status: 'running', progress: 80 }}>
           <Form.Item

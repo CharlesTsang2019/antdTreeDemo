@@ -803,7 +803,7 @@ export const MaterialCategoryView: React.FC = () => {
         }}
         okText="保存分类"
         cancelText="取消"
-        destroyOnClose
+        destroyOnHidden
       >
         <Form form={form} layout="vertical">
           {modalMode === 'addChild' && (
